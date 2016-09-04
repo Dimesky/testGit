@@ -3,3 +3,4 @@
 3 store
 4 store
 more
+fixed more in store
